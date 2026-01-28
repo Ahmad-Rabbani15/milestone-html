@@ -28,6 +28,7 @@ nav li{
     background-color: #C2410C;
     border-radius: 5px;
     padding: 4px;
+    margin: auto;
 }
 
 nav li:hover{
